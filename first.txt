@@ -1,9 +1,1 @@
-Gitの練習をします．
-基本的なワークフローを練習します．
-これはテストだよ．
-git add
-git commit
-git rm
-git status
-git diff
-2022年10月20日、久しぶりにgitをいじるよ
+久しぶりにgitをいじるよ
